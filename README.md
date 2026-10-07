@@ -52,6 +52,7 @@ O projeto está configurado como exemplo para utilizar:
 
 ```text
 7 dias
+```
 
 ## 📸 Demonstração
 

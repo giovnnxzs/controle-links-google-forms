@@ -52,3 +52,9 @@ O projeto está configurado como exemplo para utilizar:
 
 ```text
 7 dias
+
+## 📸 Demonstração
+
+![Exemplo da planilha de controle](images/planilha.png)
+
+*Exemplo da interface utilizada para controlar os links temporários.*
